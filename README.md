@@ -17,6 +17,39 @@
 <img src="https://img.shields.io/badge/-Axios-yellow" alt="Axios"/>
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
 <img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/>
+	<h2>Projects<h2/>
+		<h2>StrengthBible<h2/>
+				live: https://romantic-ardinghelli-a492fd.netlify.app
+				<br></br>
+<img src="https://fv9-5.failiem.lv/thumb_show.php?i=efdch3hyf&view" alt="sb"/>
+			<h2>E-Comerce<h2/>
+				live: https://incredible-macaron-c5e6b1.netlify.app/
+				<br></br>
+	<img src="https://fv9-3.failiem.lv/thumb_show.php?i=y46kvrf2j&view" alt="Ecomerce"/>
+				<h2>Quiz<h2/>
+				live: https://inquisitive-scone-a3752c.netlify.app/
+					<br></br>
+	<img src="https://fv9-6.failiem.lv/thumb_show.php?i=apdfg9mu3&view" alt="Quiz\"/>
+					<h2>SmallGym<h2/>
+				live: https://inquisitive-scone-a3752c.netlify.app/
+						<br></br>
+	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zqsgz6w5g&view" alt="SmallGym"/>
+						<h2>Vocabulary<h2/>
+				https://mystifying-neumann-8a322b.netlify.app/
+						<br></br>
+	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zdqz9pv4e&view" alt="JWT"/>
+							<h2>Astro Stats<h2/>
+				live : https://pensive-elion-2a1fee.netlify.app/
+						<br></br>
+	<img src="https://fv9-5.failiem.lv/thumb_show.php?i=udppy7e8g&view" alt="Astro"/>
+	
+	
+	
+	
+	
+	
+	
+
 	
 
 
