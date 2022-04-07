@@ -21,27 +21,27 @@
 		<h2>StrengthBible<h2/>
 				live: https://romantic-ardinghelli-a492fd.netlify.app
 				<br></br>
-<img src="https://fv9-5.failiem.lv/thumb_show.php?i=efdch3hyf&view" alt="sb"/>
+<img src="https://fv9-5.failiem.lv/thumb_show.php?i=efdch3hyf&view" target="_blank" alt="sb"/>
 			<h2>E-Comerce<h2/>
 				live: https://incredible-macaron-c5e6b1.netlify.app/
 				<br></br>
-	<img src="https://fv9-3.failiem.lv/thumb_show.php?i=y46kvrf2j&view" alt="Ecomerce"/>
+	<img src="https://fv9-3.failiem.lv/thumb_show.php?i=y46kvrf2j&view" alt="Ecomerce" target="_blank"/>
 				<h2>Quiz<h2/>
 				live: https://inquisitive-scone-a3752c.netlify.app/
 					<br></br>
-	<img src="https://fv9-6.failiem.lv/thumb_show.php?i=apdfg9mu3&view" alt="Quiz\"/>
+	<img src="https://fv9-6.failiem.lv/thumb_show.php?i=apdfg9mu3&view" alt="Quiz\" target="_blank"/>
 					<h2>SmallGym<h2/>
 				live: https://inquisitive-scone-a3752c.netlify.app/
 						<br></br>
-	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zqsgz6w5g&view" alt="SmallGym"/>
+	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zqsgz6w5g&view" alt="SmallGym" target="_blank"/>
 						<h2>Vocabulary<h2/>
 				https://mystifying-neumann-8a322b.netlify.app/
 						<br></br>
-	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zdqz9pv4e&view" alt="JWT"/>
+	<img src="https://fv9-4.failiem.lv/thumb_show.php?i=zdqz9pv4e&view" alt="Vocab" target="_blank"/>
 							<h2>Astro Stats<h2/>
 				live : https://pensive-elion-2a1fee.netlify.app/
 						<br></br>
-	<img src="https://fv9-5.failiem.lv/thumb_show.php?i=udppy7e8g&view" alt="Astro"/>
+	<img src="https://fv9-5.failiem.lv/thumb_show.php?i=udppy7e8g&view" alt="Astro" target="_blank"/>
 	
 	
 	
