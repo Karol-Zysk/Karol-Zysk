@@ -27,7 +27,7 @@
 				<br></br>
 	<img src="https://fv9-3.failiem.lv/thumb_show.php?i=y46kvrf2j&view" alt="Ecomerce" target="_blank"/>
 				<h2>Quiz<h2/>
-				live: https://inquisitive-scone-a3752c.netlify.app/
+				live: https://stellar-basbousa-9e821f.netlify.app/
 					<br></br>
 	<img src="https://fv9-6.failiem.lv/thumb_show.php?i=apdfg9mu3&view" alt="Quiz\" target="_blank"/>
 					<h2>SmallGym<h2/>
