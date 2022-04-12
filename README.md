@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
 <img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/>
 	<h2>Projects<h2/>
+		<h2>Current project Kurpie<h2/>
+				live: https://euphonious-tanuki-81762a.netlify.app/
+				<br></br>
+<img src="https://fv9-1.failiem.lv/thumb_show.php?i=u49uh9gkp&view" target="_blank" alt="sb"/>
 		<h2>StrengthBible<h2/>
 				live: https://romantic-ardinghelli-a492fd.netlify.app
 				<br></br>
