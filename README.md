@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
 <img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/>
 	<h2>Projects<h2/>
-		<h2>Current project Kurpie<h2/>
+		<h2>React Maps<h2/>
+		live: https://admirable-mochi-c1e6c8.netlify.app/
+				<br></br>
+<img src="https://fv9-6.failiem.lv/thumb_show.php?i=kxswurm77&view" target="_blank" alt="Maps"/>
+		<h2>Kurpie<h2/>
 				live: https://euphonious-tanuki-81762a.netlify.app/
 				<br></br>
 <img src="https://fv9-1.failiem.lv/thumb_show.php?i=u49uh9gkp&view" target="_blank" alt="sb"/>
