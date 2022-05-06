@@ -21,7 +21,7 @@
 	<h2>Projects<h2/>
 		<h2>Portfolio: https://portfolio-rho-nine-51.vercel.app/
 				<br></br>
-<img src="https://fv9-3.failiem.lv/down.php?i=6hjbvntmf&view" target="_blank" alt="Maps"/>
+<img src="https://fv9-3.failiem.lv/thumb_show.php?i=6hjbvntmf&view" target="_blank" alt="Maps"/>
 		<h2>React Maps<h2/>
 		live: https://admirable-mochi-c1e6c8.netlify.app/
 				<br></br>
