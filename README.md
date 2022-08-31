@@ -19,6 +19,12 @@
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
 <img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/>
 	<h2>Projects<h2/>
+	<h2>Tusinek: https://https://zajazd-tusinek.vercel.app/
+				<br></br>
+<img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="Maps"/>
+	<h2>Lotto-Simulator: https://lotto-symulator.netlify.app/
+				<br></br>
+<img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Flotto.png&w=1920&q=75" target="_blank" alt="Maps"/>
 		<h2>Portfolio: https://portfolio-rho-nine-51.vercel.app/
 				<br></br>
 <img src="https://fv9-3.failiem.lv/thumb_show.php?i=6hjbvntmf&view" target="_blank" alt="Maps"/>
