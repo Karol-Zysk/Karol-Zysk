@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Karol-Zysk
-- 👀 I’m interested in programming and sport
-- 🌱 I’m currently learning React with Typescript
 
-<h2>“Tell me and I forget, teach me and I may remember, involve me and I learn.” 
+
+<h2>My Projects
 <br><br><br>
 	I use in my projects: <h2/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
