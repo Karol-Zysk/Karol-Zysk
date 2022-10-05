@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Karol-Zysk
+<h2>- 👋 Hi, I’m @Karol-Zysk
 
 
-<h2>My Projects
-<br><br><br>
+
+<br><br>
 	I use in my projects: <h2/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/-Axios-yellow" alt="Axios"/>
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
-<img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/>
+<img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/> and more..
 	<h2>Projects<h2/>
 	<h2>Tusinek: https://https://zajazd-tusinek.vercel.app/
 				<br></br>
