@@ -24,7 +24,7 @@
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
 <h2>Tanie-Suple: https://tanie-suple-shop.vercel.app/
 				<br></br>
-<img src="https://fv9-1.failiem.lv/thumb_show.php?i=r9ezfadfd&download_checksum=837426d414ffef273369a3df0ff0180fb6c7d152&download_timestamp=1665738033" target="_blank" alt="Maps"/>
+<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/tanie-suple.png" target="_blank" alt="Maps"/>
 	<h2>Lotto-Simulator: https://lotto-symulator.netlify.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Flotto.png&w=1920&q=75" target="_blank" alt="Maps"/>
