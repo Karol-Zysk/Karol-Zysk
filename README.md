@@ -1,6 +1,6 @@
 <h2>- 👋 Hi, I’m @Karol-Zysk
-
-
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karol-Zysk&layout=compact"/>
 
 <br><br>
 	Favourite Tools to work with: <h2/>
@@ -11,14 +11,10 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="StyledComponents"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/-Axios-yellow" alt="Axios"/>
-<img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/>
-<img src="https://img.shields.io/badge/-JWTtoken-grey" alt="JWT"/> and more..
-	<h2>Projects<h2/>
+<img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/> and more..
+	<h2>My Projects<h2/>
 	<h2>Tusinek: https://zajazd-tusinek.vercel.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
