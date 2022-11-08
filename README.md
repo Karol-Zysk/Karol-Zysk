@@ -15,16 +15,20 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="StyledComponents"/>
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/> and more..
 	<h2>My Projects<h2/>
-	<h2>Tusinek: https://zajazd-tusinek.vercel.app/
+	<h2>NextJS Tusinek: https://zajazd-tusinek.vercel.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
-<h2>Tanie-Suple: https://tanie-suple-shop.vercel.app/
+		<h2>NodeJS Natours: https://tour-net.herokuapp.com/
+				<br></br>
+		<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours.png" target="_blank" alt="natours"/>
+
+<h2>NextJS Tanie-Suple: https://tanie-suple-shop.vercel.app/
 				<br></br>
 <img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/tanie-suple.png" target="_blank" alt="Maps"/>
-	<h2>Lotto-Simulator: https://lotto-symulator.netlify.app/
+	<h2>React Lotto-Simulator: https://lotto-symulator.netlify.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Flotto.png&w=1920&q=75" target="_blank" alt="Maps"/>
-		<h2>Portfolio: https://portfolio-rho-nine-51.vercel.app/
+		<h2>Next JS Portfolio: https://portfolio-rho-nine-51.vercel.app/
 				<br></br>
 <img src="https://fv9-3.failiem.lv/thumb_show.php?i=6hjbvntmf&view" target="_blank" alt="Maps"/>
 		<h2>React Maps<h2/>
@@ -35,7 +39,7 @@
 				live: https://euphonious-tanuki-81762a.netlify.app/
 				<br></br>
 <img src="https://fv9-1.failiem.lv/thumb_show.php?i=u49uh9gkp&view" target="_blank" alt="sb"/>
-		<h2>StrengthBible<h2/>
+		<h2>React StrengthBible<h2/>
 				live: https://romantic-ardinghelli-a492fd.netlify.app
 				<br></br>
 <img src="https://fv9-5.failiem.lv/thumb_show.php?i=efdch3hyf&view" target="_blank" alt="sb"/>
