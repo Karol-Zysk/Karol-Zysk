@@ -21,7 +21,8 @@
 		<h2>NodeJS Natours: https://tour-net.herokuapp.com/
 				<br></br>
 		<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours.png" target="_blank" alt="natours"/>
-
+		<br><br>
+<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours2.png" target="_blank" alt="natours"/>
 <h2>NextJS Tanie-Suple: https://tanie-suple-shop.vercel.app/
 				<br></br>
 <img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/tanie-suple.png" target="_blank" alt="Maps"/>
