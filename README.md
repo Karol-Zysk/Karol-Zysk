@@ -18,7 +18,7 @@
 	<h2>NextJS Tusinek: https://zajazd-tusinek.vercel.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
-		<h2>NodeJS Natours: https://tour-net.herokuapp.com/
+		<h2>NodeJS Natours: https://tour-nett.onrender.com/
 				<br></br>
 		<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours.png" target="_blank" alt="natours"/>
 		<br><br>
