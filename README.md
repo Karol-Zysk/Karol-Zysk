@@ -26,6 +26,9 @@
 <h2>NextJS Tanie-Suple: https://tanie-suple-shop.vercel.app/
 				<br></br>
 <img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/tanie-suple.png" target="_blank" alt="Maps"/>
+		<h2>NextJS Tusinek: https://zajazd-tusinek.vercel.app/
+				<br></br>
+<img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
 	<h2>React Lotto-Simulator: https://lotto-symulator.netlify.app/
 				<br></br>
 <img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Flotto.png&w=1920&q=75" target="_blank" alt="Maps"/>
