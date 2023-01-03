@@ -11,13 +11,9 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="StyledComponents"/>
 <img src="https://img.shields.io/badge/-RestAPI-green" alt="RestAPI"/> and more..
 	<h2>My Projects<h2/>
-	<h2>NextJS Tusinek: https://zajazd-tusinek.vercel.app/
-				<br></br>
-<img src="https://portfolio-rho-nine-51.vercel.app/_next/image?url=%2Fimages%2Ftusinek.png&w=1920&q=75" target="_blank" alt="tanie-suple"/>
 		<h2>NodeJS Natours: https://tour-nett.onrender.com/
 				<br></br>
 		<img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours.png" target="_blank" alt="natours"/>
