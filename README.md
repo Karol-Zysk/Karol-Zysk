@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karol-Zysk&layout=compact"/>
 <h2>My Projects</h2>
 <h2>NodeJS Natours:</h2>
-<p><a href="https://tour-nett.onrender.com/">https://tour-nett.onrender.com/</a></p>
+<p><a href="https://seal-app-vm25l.ondigitalocean.app/">Tour-Net</a></p>
 <img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours.png" alt="natours" target="_blank"/>
 <img src="https://raw.githubusercontent.com/Karol-Zysk/Portfolio/main/public/images/natours2.png" alt="natours" target="_blank"/>
 <h2>NextJS Tanie-Suple:</h2>
